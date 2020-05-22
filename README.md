@@ -11,11 +11,11 @@ Here is some guideline for your proposal.
 
 The pull request would be a file in markdown format. The file will contain a title, abstract, track, session type, and experience level. 
 
-**Title*: ** Maximum character limit is 70 characters
+**Title*:** Maximum character limit is 70 characters
 
-**Abstract*: ** Maximum character limit is 500 characters
+**Abstract*:** Maximum character limit is 500 characters
 
-**Track*: ** Here are some tracks that we would be interested in but not limited to these only 
+**Track*:** Here are some tracks that we would be interested in but not limited to these only 
 1. Anything and everything about java, language feature, JDK internals, popular tools, framework, etc
 2. Coding practices, general software engineering, development methodology, team culture, etc 
 3. Building Software on cloud, containers, and infrastructure, etc
