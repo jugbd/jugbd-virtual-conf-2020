@@ -1,3 +1,3 @@
-# Java User Group Bangladesh Virtual Conference 2020 
+# Tanative Shedule and talks 
 
 ![JUGBD Virtual Conf 2020](jugbd-virtual-conf.png)
