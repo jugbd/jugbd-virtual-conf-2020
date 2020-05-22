@@ -1,1 +1,1 @@
-# java-virtual-conf-2020
+# Java User Group Virtual Conference 2020 
