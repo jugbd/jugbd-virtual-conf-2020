@@ -7,7 +7,8 @@ It is settled now. We are doing a virtual conference from JUGBD. The tentative t
 
 If you have something unique and exciting topic that you would like to share with your fellow developers, students, write a proposal, and submit a pull request in this git repository,  We will review it and provide feedback if necessary and then merge it. 
 
-Here is some guideline for your proposal. 
+## Here is some guideline for your proposal. 
+
 
 The pull request would be a file in markdown format. The file will contain a title, abstract, track, session type, and experience level. 
 
@@ -21,3 +22,5 @@ The pull request would be a file in markdown format. The file will contain a tit
 3. Building Software on cloud, containers, and infrastructure, etc
 
 **Experience Level*:** Mention the experience level of the target attendee
+
+**Short Bio*:** Please add a short bio of yours as well
