@@ -3,7 +3,7 @@
 *Abstract:*
 Moving your project to the latest Java can mean faster code, cheaper cloud bills, but above all, an application that cannot be hacked easily! Just moving to Java 11 can save up to 25% of heap memory. Not counting the hundreds of security bugs solved!
 
-If you refactor your legacy code to the latest java, your code becomes clear, concise, and easy to read, which means less chance to produce bugs. Remember that XX % of the work is maintaingin code!
+If you refactor your legacy code to the latest java, your code becomes clear, concise, and easy to read, which means less chance to produce bugs. Remember that 40-80 % of the work is maintaingin code!
 
 In this talk, you will walk through the 7 easy steps to move to a new Java version. You learn the best hacks used by open source developers to keep up with Java versions. We will also see the minimum work that you can do, to make your legacy code ready to benefit from newer Java version.
 
